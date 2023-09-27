@@ -45,7 +45,7 @@ Relación de 1:N (DÉBIL)
 <img width="344" alt="image" src="https://github.com/SergioABS0813/CLASE-IWEB-6/assets/134556600/3f6801da-4ab9-49fa-b580-bec1db8f7da5">
 
 ## Colocación de la relación 1:N
-Por ejemplo si queremos colocar que el idPersona vaya al Celular entonces la pata de gallo debe estar en el Celular
+Por ejemplo si queremos colocar que el idPersona vaya al Celular entonces la pata de gallo debe estar en el Celular ya que 1 persona puede tener muchos celulares según nuestro ejemplo
 
 INCORRECTA COLOCACIÓN:
 
