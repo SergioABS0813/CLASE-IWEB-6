@@ -78,3 +78,52 @@ Con estas modificaciones entonces nos queda así:
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-6/assets/134556600/87e707c1-ffe6-4230-a2d2-c5b108cc9c69)
 
+## Forward Engineer
+Sirve para guardar el código SQL y transportarlo "guardarlo" en la base de datos
+
+<img width="568" alt="image" src="https://github.com/SergioABS0813/CLASE-IWEB-6/assets/134556600/9910f335-0637-4398-8ae1-8f6bea84f88c">
+
+<img width="660" alt="image" src="https://github.com/SergioABS0813/CLASE-IWEB-6/assets/134556600/cb986494-f437-4632-a1bc-8b03d05ade12">
+
+<img width="663" alt="image" src="https://github.com/SergioABS0813/CLASE-IWEB-6/assets/134556600/e3bb5dbc-9c3f-41d1-9949-e31084773948">
+
+<img width="506" alt="image" src="https://github.com/SergioABS0813/CLASE-IWEB-6/assets/134556600/ccc6b22a-67fd-4ae0-9dcb-8766e88bff7a">
+
+Verificamos las tablas que se están exportando:
+
+<img width="659" alt="image" src="https://github.com/SergioABS0813/CLASE-IWEB-6/assets/134556600/5ea9c1f2-6d6f-49c8-8722-a4b6798e5f85">
+
+Siempre guardamos el código en SQL:
+
+<img width="663" alt="image" src="https://github.com/SergioABS0813/CLASE-IWEB-6/assets/134556600/742a4a63-2e6d-4450-868c-9993672203ca">
+
+<img width="310" alt="image" src="https://github.com/SergioABS0813/CLASE-IWEB-6/assets/134556600/062c45b7-ef93-48d1-a933-e9c860fa98e1">
+
+Al final debe aparecer esta ventana:
+
+<img width="664" alt="image" src="https://github.com/SergioABS0813/CLASE-IWEB-6/assets/134556600/a49cb759-126d-4239-8dee-a8e829a9a1d5">
+
+## Reverse Engineer
+Ir a Administration, luego clic en Data Import/Restore
+
+<img width="695" alt="image" src="https://github.com/SergioABS0813/CLASE-IWEB-6/assets/134556600/42e2f0af-58b1-476a-ba64-4bcf739b22a4">
+
+Darle a Import from Self y luego escoger el archivo .sql guardado:
+
+<img width="742" alt="image" src="https://github.com/SergioABS0813/CLASE-IWEB-6/assets/134556600/ee3c1a4f-9c37-46ba-acab-49485f6d9f51">
+
+Luego vamos a Import Progress, luego le damos a Start Import. Luego aparecerá así:
+
+<img width="574" alt="image" src="https://github.com/SergioABS0813/CLASE-IWEB-6/assets/134556600/6165817d-dd61-4788-964a-ef6251cef5bc">
+
+Ahora ya tenemos las tablas en código SQL, pero para verlo en mwb entonces realizamos reverse:
+
+<img width="233" alt="image" src="https://github.com/SergioABS0813/CLASE-IWEB-6/assets/134556600/f329cfcd-f5af-4d99-ac69-3745aeed6407">
+
+<img width="657" alt="image" src="https://github.com/SergioABS0813/CLASE-IWEB-6/assets/134556600/9376833e-f70d-4fa4-8f6f-16f276b3c9b0">
+
+Luego le damos a todo next y finish
+
+<img width="960" alt="image" src="https://github.com/SergioABS0813/CLASE-IWEB-6/assets/134556600/84487d24-bb20-4698-9df5-826f58139ea6">
+
+
